@@ -1,0 +1,7 @@
+{
+  "name": "dummy-front",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
